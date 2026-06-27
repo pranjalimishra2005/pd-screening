@@ -83,7 +83,7 @@ Python 3.11.x
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Aanchal86/pd-screening.git
+git clone https://github.com/pranjalimishra2005/pd-screening.git
 cd pd-screening
 ```
 
